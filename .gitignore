@@ -1,0 +1,21 @@
+# Output från körningar
+prices.json
+prices.html
+scraper.log
+
+# Arkiv och nerladdade bilder
+history/
+images/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Diverse
+.sync_test_*
+.DS_Store
+Thumbs.db
